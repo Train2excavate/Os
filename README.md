@@ -5,8 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <title>CrystalOS Ultra V7 - Liquid Glass</title>
-    
+    <title>Google</title> 
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         :root {
@@ -107,9 +106,9 @@
         }
 
         const APPS = [
-            { id: 'youtube', name: 'YouTube', icon: '🔴', url: 'https://www.youtube.com/embed/', online: true },
+            { id: 'youtube', name: 'YouTube', icon: '🔴', url: 'https://613tube.com', online: true },
             { id: 'selenite', name: 'Selenite', icon: '💎', url: 'https://selenite.cc/', online: true },
-            { id: 'frogie', name: 'Frogies Arcade', icon: '🐸', url: 'https://frogie.dev/', online: true },
+            { id: 'frogie', name: 'Frogies Arcade', icon: '🐸', url: 'https://frogiesarcade.win/', online: true },
             { id: 'doom', name: 'DOOM', icon: '🔫', url: 'https://archive.org/embed/doom-playable', online: true },
             { id: 'history', name: 'Poison', icon: '🧪', type: 'system' },
             { id: 'settings', name: 'Settings', icon: '⚙️', type: 'system' },
